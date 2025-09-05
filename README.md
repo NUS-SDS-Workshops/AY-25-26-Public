@@ -36,8 +36,8 @@ Each workshop has its own directory with a consistent structure:
 ## Getting started
 1. Clone the repository
    ```bash
-   git clone git@github.com:NUS-SDS-Workshops/AY-25-26-public.git
-   cd AY-25-26-public
+   git clone https://github.com/NUS-SDS-Workshops/AY-25-26-Public.git
+   cd AY-25-26-Public
    ```
 2. Pick a workshop folder and review its `README.md` for any specifics
 3. Create and activate a virtual environment (recommended)
