@@ -7,6 +7,7 @@ Welcome! This public repository hosts all materials for SDS workshops in AY25/26
 - **Runnable notebooks and scripts** used in each workshop
 - **Datasets** or links to data required to follow along
 - **Per-workshop `README.md`** with specific instructions
+- **Workshop Slides** will be uploaded here after end of each workshop
 
 ## How to navigate
 Each workshop has its own directory with a consistent structure:
@@ -18,6 +19,7 @@ Each workshop has its own directory with a consistent structure:
     ├── MAIN_CODE_FILE
     ├── OTHER_SCRIPTS
     ├── requirements.txt
+    ├── WORKSHOP SLIDES
     └── README.md
 ```
 
@@ -30,6 +32,7 @@ Each workshop has its own directory with a consistent structure:
     ├── extra_code1.py
     ├── extra_code2.py
     ├── requirements.txt
+    ├── workshop_slides.pdf
     └── README.md
 ```
 
@@ -55,11 +58,17 @@ Each workshop has its own directory with a consistent structure:
 - Small sample files may be included under each workshop’s `Data/` folder
 - If a dataset is too large or restricted, the workshop `README.md` will provide a download link or instructions
 
+## About Workshop Slides 
+- Some animations and trasitions will be lost during download process, so do expect some loss of information from the uploaded slides compared to the one presented during the actual workshop
+
 ## Attribution
 - Code and materials in this repository are created by our workshop members
 - If you use these materials, please provide appropriate credit to the workshop and the original contributors
 
+## Recordings 
+- Unfortunately, no recording will be provided for our workshops 
+
 ## Stay updated
-- Star and watch this repository to be notified when new workshop materials land
+- Star and watch this repository to be notified when new workshop materials land 
 
 
