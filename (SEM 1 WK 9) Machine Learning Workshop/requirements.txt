@@ -1,0 +1,55 @@
+# Core data and math libraries
+numpy==2.3.3
+pandas==2.3.2
+scipy==1.16.2
+
+# Machine learning
+scikit-learn==1.7.2
+
+# Visualization
+matplotlib==3.10.6
+seaborn==0.13.2
+
+# Jupyter / IPython environment support
+ipykernel==6.30.1
+ipython==9.5.0
+jupyter_client==8.6.3
+jupyter_core==5.8.1
+matplotlib-inline==0.1.7
+nest-asyncio==1.6.0
+traitlets==5.14.3
+tornado==6.5.2
+psutil==7.1.0
+debugpy==1.8.17
+
+# Utility libraries
+packaging==25.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+joblib==1.5.2
+threadpoolctl==3.6.0
+six==1.17.0
+cycler==0.12.1
+fonttools==4.60.0
+kiwisolver==1.4.9
+pillow==11.3.0
+pyparsing==3.2.5
+Pygments==2.19.2
+prompt_toolkit==3.0.52
+wcwidth==0.2.13
+platformdirs==4.4.0
+pure_eval==0.2.3
+parso==0.8.5
+jedi==0.19.2
+executing==2.2.1
+decorator==5.2.1
+stack-data==0.6.3
+appnope==0.1.4
+comm==0.2.3
+ipython_pygments_lexers==1.1.1
+pexpect==4.9.0
+ptyprocess==0.7.0
+kagglehub==0.3.13
+umap-learn==0.5.9.post2
+xgboost==3.0.5
