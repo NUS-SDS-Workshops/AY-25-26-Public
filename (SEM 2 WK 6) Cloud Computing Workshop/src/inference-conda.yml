@@ -1,0 +1,12 @@
+name: fmnist-inference
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - azureml-defaults==1.61.0
+      - azureml-inference-server-http==1.5.1
+      - numpy==1.26.4
+      - --extra-index-url https://download.pytorch.org/whl/cpu
+      - torch==2.5.1+cpu
