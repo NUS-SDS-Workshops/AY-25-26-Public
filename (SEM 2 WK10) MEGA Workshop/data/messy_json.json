@@ -1,0 +1,2 @@
+{"id":"001","name":"Alice","created_at":"2023-10-16T15:47:00Z","age":null,"contacts":[{"type":"email","value":"alice@example.com"},{"type":"phone","value":null}],"address":"123 Main St","preferences":{"newsletter":true,"sms":"yes"},"orders":[{"orderId":1001,"timestamp":1697468820,"items":"apple, banana","total":"15.50"},{"orderId":"1002","timestamp":1712988368,"items":[{"name":"orange","qty":2},{"name":"grape","qty":"3"}],"total":20.75}]}
+
